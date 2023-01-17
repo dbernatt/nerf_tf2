@@ -3,7 +3,7 @@ name: nerf_tf2
 channels:
     - conda-forge
 dependencies:
-    - python=3.7
+    - python=3.8
     - pip
     - cudatoolkit=11.0
     - tensorflow=2.8
